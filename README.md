@@ -1,2 +1,2 @@
-# blab-infra-prod
-terraform Repo for Bharath Lab
+# This is a prod terraform repository is for infra developers. 
+The infra was last modified by: Bharath Lella
